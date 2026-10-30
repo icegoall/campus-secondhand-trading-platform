@@ -1,0 +1,10 @@
+﻿frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+backend/__pycache__/
+backend/*.pyc
+backend/.venv/
+backend/venv/
+.DS_Store
+Thumbs.db
+*.log
